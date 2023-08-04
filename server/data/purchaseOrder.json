@@ -1,0 +1,88 @@
+[
+    {
+        "name": "PO1",
+        "products": [
+            {
+                "name": "P1",
+                "palletRows": 4,
+                "palletCols": 7,
+                "pallets": [
+                    {
+                        "number": 1,
+                        "box": 28
+                    },
+                    {
+                        "number": 2,
+                        "box": 22
+                    }
+                ]
+            },
+            {
+                "name": "P2",
+                "palletRows": 5,
+                "palletCols": 10,
+                "pallets": [
+                    {
+                        "number": 3,
+                        "box": 50
+                    },
+                    {
+                        "number": 4,
+                        "box": 50
+                    },
+                    {
+                        "number": 5,
+                        "box": 50
+                    },
+                    {
+                        "number": 6,
+                        "box": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "PO2",
+        "products": [
+            {
+                "name": "P1",
+                "palletRows": 4,
+                "palletCols": 7,
+                "pallets": [
+                    {
+                        "number": 1,
+                        "box": 28
+                    },
+                    {
+                        "number": 2,
+                        "box": 22
+                    }
+                ]
+            },
+            {
+                "name": "P2",
+                "palletRows": 5,
+                "palletCols": 10,
+                "pallets": [
+                    {
+                        "number": 3,
+                        "box": 50
+                    },
+                    {
+                        "number": 4,
+                        "box": 50
+                    },
+                    {
+                        "number": 5,
+                        "box": 50
+                    },
+                    {
+                        "number": 6,
+                        "box": 1
+                    }
+                ]
+            }
+        ]
+    }
+]
